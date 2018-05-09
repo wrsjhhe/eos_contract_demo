@@ -1,5 +1,5 @@
 # eos_contract_demo
-the official demo tic_tac_toe,configurate cmake file that can be builded by clion.
+the official demo tic_tac_toe,configurate cmake file that can be built by clion.
 
 Select File ➜ Settings ➜ Build, Execution, Deployment ➜ CMake and make the following adjustments:
 
